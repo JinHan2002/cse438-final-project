@@ -19,3 +19,8 @@ Features
 8. Information of each task is stored in Firestore and updated automatically.
 9. Use gesture（long press）to delete each task.
 10. User could click “log out” button to log out.
+
+Sample login account
+--------
+email: hanjin@wustl.edu
+password: 467207
